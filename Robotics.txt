@@ -1,0 +1,21 @@
+Robotics is a technology which reduces work burden for humans and machines.
+It deals with the designing and operation of robots.
+It can also implement machines that can helpful for humans in variety of ways.
+Ex: - robotic toys, robots in restaurants for share up labour gaps.
+Invention of Robotics: -
+In the year 1950s by George C.  He developed first Robot: - “UNIMATE”
+Development of robots involves: - computer programming code,
+                                                         Electrical Engineers design.
+Types of robots: -
+Pre-programmed = they simply do their work and they cannot change their work to other.
+Humanoid = It have a similar appearance with human.
+Autonomous = It acts without make use of human. It takes place in open environment.
+Teleoperated = It can be controlled by humans and mostly works in weather conditions.
+Augmenting = It replace the capabilities that a person lost.
+Components of robots: - 
+Power supply
+Actuators
+Electric motors
+Sensor
+controller
+ 
